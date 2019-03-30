@@ -1,0 +1,13 @@
+G04 Gerber job file.*
+%TF.FileFunction,JobInfo*%
+%TF.GenerationSoftware,Autodesk,EAGLE,9.0.1*%
+%TF.CreationDate,2018-06-21T06:15:50Z*%
+%TF.Part,Single*%
+%MOMM*%
+%TJ.B_Owner,Alexander Georgescu <ag147@hdm-stuttgart.de>*%
+%TJ.B_ID,Main*%
+%TJ.B_LayerNum,2*%
+%TJ.B_Thickness,1.570000*%
+%TJ.B_Size_X,64.970000*%
+%TJ.B_Size_Y,29.970000*%
+M02*
